@@ -8,7 +8,7 @@ Passionate about Data Science, Data Analytics.<br><br><br>
 
 📜 Certifications<br><br>
 Finlatics Business Analyst Experience Program (Data Analytics with Excel & Power BI)<br><br>
-Text Retrieval & Search Engines (Coursera): Learned IR, ML & Recommender Systems<br><br>
+Text Retrieval & Search Engines : Learned IR, ML & Recommender Systems<br><br>
 
 </p>
 
