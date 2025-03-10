@@ -7,7 +7,8 @@ Integrated MTech CSE (Business Analytics) @ VIT Chennai (2020-2025)<br><br>
 Passionate about Data Science, Data Analytics.<br><br><br>
 
 📜 Certifications<br><br>
-Finlatics Business Analyst Experience Program (Data Analytics with Excel & Power BI)
+
+Finlatics Business Analyst Experience Program (Data Analytics with Excel & Power BI)  
 <a href="https://drive.google.com/file/d/1H0bab4MaHLaxbk0mSgXviyeTKzpQ7VvU/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge" height="25" />
 </a>
@@ -16,7 +17,11 @@ Finlatics Business Analyst Experience Program (Data Analytics with Excel & Power
 </a>
 <br><br>
 
-Text Retrieval & Search Engines : Learned IR, ML & Recommender Systems<br><br>
+Text Retrieval & Search Engines: Learned IR, ML & Recommender Systems  
+<a href="https://drive.google.com/file/d/10tS-5LTPshkSjhm3PN3McnjLMCpkZ8DT/view?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Certificate-purple?style=for-the-badge" height="25" />
+</a>
+<br><br>
 
 </p>
 
