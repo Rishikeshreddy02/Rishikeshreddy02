@@ -4,7 +4,7 @@
 
 <p align="left">👨‍💻 About Me<br><br>
 Integrated MTech CSE (Business Analytics) @ VIT Chennai (2020-2025)<br><br>
-Passionate about Data Analytics, Machine Learning.<br><br><br>
+Passionate about Data Science, Data Analytics.<br><br><br>
 
 📜 Certifications<br><br>
 Finlatics Business Analyst Experience Program (Data Analytics with Excel & Power BI)<br><br>
